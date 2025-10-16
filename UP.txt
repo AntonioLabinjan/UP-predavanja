@@ -1,0 +1,137 @@
+Projekt - jedinstven poduhvat koji mora isporučiti neki rezultat
+Naručitelju projekta treba: money, idea, deadline ilitiga time, budget, scope
+Izvršitelju projekta treba: resursi,ljudi, money, informacije
+
+Projekt: privremeni poduhvat koji je pokrenut kako bi se kreirao jedinstven proizvod, servis ili rezultat
+Ima definiran početak i kraj
+Kraj projekta -> kad su postignuti ciljevi projekta ili kad je projekt ukinut jer se ciljevi ne mogu dostići (nema potrebe za projektom)
+
+Projekt kreira jedinstven proizvod, servis ili rezultat (opipljiv ili neopipljiv)
+
+Proces => ponavlja se svakodnevno (npr. proces narudžbe na ebayu)
+Projekt => zaseban (npr. projekt redizajna web sjedišta ebaya (kad ga jednom redizajniramo, nećemo opet)
+
+Čak i ako u projektu ima nekih repetitivnih elemenata, to je i dalje projekt (npr. više projekata gradnje kuće ima više istih elemenata, ali i dalje je svaka gradnja kuće zaseban projekt)
+Ako u projektu ima repetitivnih procesa, ključno je da je rezultat i dalje jedinstven
+Prototip nečega je sigurno rezultat projekta
+Svaki idući je potencijalno rezultat procesa, osim ako ne delamo značajne razlike
+
+Upravljanje projektima: primjena znanja, vještina, alata i tehnika na projektne aktivnosti kako bi se ispunili projektni zahtjevi
+Utvrditi da je svim dionicima jasan konačni cilj projekta
+Bitno je planirati
+Načelo 6P (proper planning prevents poor project performance)
+Kompetencije članova time i vještine voditelja tima
+Komunikacijski plan projekta - ča, kemu, kako?
+Analiza rizika i načini kako ih izbjeći/ukloniti
+Naučene lekcije
+
+Dobro planirati
+Paziti da se scope projekta ne mijenja za vrijeme izvedbe projekta (scope creep) => ne želimo da opseg nekontrolirano rast
+Najčešći tunable parametri su time and money 
+Koristiti PM tools
+
+Želimo minimizirati troškove :)
+TRL -> technical readiness level
+
+
+---
+
+### **TRL 1 — Basic principles observed**
+
+* Početak svega.
+* Ideja je tek u fazi teorije, možda kroz znanstveni članak ili koncept.
+
+---
+
+### **TRL 2 — Technology concept formulated**
+
+* Definiran je osnovni koncept i pristup, ali još nema eksperimentalne potvrde.
+
+---
+
+### **TRL 3 — Experimental proof of concept**
+
+* Počinju laboratorijski eksperimenti.
+* Dokazuje se da ideja *može funkcionirati* u praksi.
+
+---
+
+### **TRL 4 — Technology validated in lab**
+
+* Tehnologija radi u kontroliranom laboratorijskom okruženju.
+* Pojavljuju se prvi prototipovi.
+
+---
+
+### **TRL 5 — Technology validated in relevant environment**
+
+* Testira se u uvjetima koji su slični stvarnom okruženju (npr. industrijska simulacija).
+
+---
+
+### **TRL 6 — Technology demonstrated in relevant environment**
+
+* Prototip radi u realističnim uvjetima.
+* Pokazuje se funkcionalnost i pouzdanost sustava.
+
+---
+
+### **TRL 7 — System prototype demonstration in operational environment**
+
+* Prototip radi u stvarnom, operativnom okruženju (npr. u tvornici, na cesti, u stvarnim uvjetima).
+
+---
+
+### **TRL 8 — System complete and qualified**
+
+* Sustav je dovršen, testiran i potvrđen da ispunjava sve tehničke zahtjeve.
+* Spreman za masovnu proizvodnju ili implementaciju.
+
+---
+
+### **TRL 9 — Actual system proven in operational use**
+
+* Tehnologija je *u stvarnoj upotrebi*.
+* Dokazana u praksi, komercijalno dostupna i stabilna.
+
+---
+
+Za položit => napravit projektni plan i projektnu povelju
+Waterfall, Agile, Lean, 6 Sigma ili neki drugi
+Prezentiranje
+
+Semninarski rad - prezentacija => nešto od ova 3 navedena
+1 područje znanja prema PM procesnim grupama ili 1 PM procesne grupe
+Opis 2 alata u Lean/Six sigma metodologiji + primjeri primjene
+Opis alata iz Agile
+
+Ima usmeni => aktivnost je bitna
+Za seminare imamo spisak tema
+
+Usmeni => online...ili termin predavanja ili neki random
+Do 10 ljudi istovremeno
+
+
+Time, money, scope
+- trebaju biti izbalansirani da bi projekt bio kvalitetan
+Triple constraint
+
+Bitno je biti prilagodljiv promjenama
+
+C = VxDxF > R
+C -> change (promjena)
+V -> a positive vision for future (pozitivna vizija budućnosti)
+D -> dissatisfaction with status quo (nezadovoljstvo trenutnim stanjem)
+F -> first steps (plan ostvarenja vizije - učiknoviti prvi koraci pri uvođenju promjene)
+R -> natural human resistance to change (prirodan ljudski otpor na promjenu)
+
+Produkt svega ovoga mora biti veći od otpora na promjene
+"Ništa se ne dešava bez osobne transformacije"
+
+Kreiranje ideje>Planiranje proizvoda>Razvoj proizvoda>Uvođenje na tržište>Praćenje proizvoda na tržištu>Relaunch proizvoda na tržištu>Praćenje proizvoda na tržištu>Eliminacija proizvoda
+
+Projekti nose promjene => projekti unose promjene u organizaciju
+Iz perspektive poslovanja, projekti su usmjereni  na pomicanje organizacije iz jednog (početnog) stanja u neko drugo (ciljno) stanje kako bi postigli svoje ciljeve
+Organizacija treba pokretanja projekta odrediti svoje postojeće (početno) stanje kako bi bila u mogućnosti mjeriti svoj uspjeh u projektu
+
+ROI => return of investment u ovemu slučaju (a ne region of interest :D )
