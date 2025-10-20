@@ -142,3 +142,9 @@ Opipljive: money, stvari, alati, građevine, tržišni udio...
 Neopipljive: reputacija, strateško usmjerenje, javno dobro, dobro raspoloženje, prepoznattljivost brenda...
 
 Stakeholder u kontekstu projekta je bilo koja osoba, grupa ili organizacija koja ima interes u projektu ili može biti pogođena ishodom projekta
+Projekt > Strategija > Misija i vizija
+Koristimo projekte za ispuniti strategiju, a strategija služi da ostvarimo misiju i viziju
+
+Projekti - sredstvo sa kojim organizacija reagira na faktore koji utječu na njeno poslovanje
+Reakcija organizacije - cilj je uspješno implementirati promjene koje su potrebne za ptilagodbu tim faktorima s ciljem da se osigura kontinuitet i opstojnost
+Faktori bi na kraju trebali imati jasnu vezu prema strateškim ciljevima organizacije i poslovne vrijednosti svakog pojedinog projekta
