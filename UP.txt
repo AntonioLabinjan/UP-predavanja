@@ -226,3 +226,16 @@ Prati napredak i pomaže u uklanjanju većih prepreka.
 Na kraju, određuje uspjeh projekta u smislu poslovnih ili strateških ciljeva.
 
 PM (voditelj projekta) je često jedinstvena kontakt točka => s jedne strane: rukovodstvo, projektni tim, financije, it, dobavljači, s druge strane: klijent, linijski voditelj, sponzor projekta, sigurnost, pravna/regulatorna pitanja. projektni audit
+
+Životni ciklus projekta: početak projekta, organizacija i priprema, rad na projektu, zatvaranje projekta => generičke faze
+
+Okoline u kojima se odvijaju projekti: 
+faktori okruženja kompanije (EEF, Entetprise environmental factors) => unutar i izvan organizacije
+imovina organizacijskih procesa (OPA, organizational process assets) => procesi politike i procedure, organizacijska baza znanja
+organizacijski sustavi (OS, organizational systems) => okviri vođenja poslovanja, elementi upravljanja, org. strukture
+
+Organizacijska baza znanja => lessons learned nakon svakog projekta
+
+4 tipa projekta:
+vidit na ppt...ne znan izvuć niš suvislo van :D
+
