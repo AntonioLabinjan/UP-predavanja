@@ -224,3 +224,5 @@ Odobrava budžet i resurse.
 Prati napredak i pomaže u uklanjanju većih prepreka.
 
 Na kraju, određuje uspjeh projekta u smislu poslovnih ili strateških ciljeva.
+
+PM (voditelj projekta) je često jedinstvena kontakt točka => s jedne strane: rukovodstvo, projektni tim, financije, it, dobavljači, s druge strane: klijent, linijski voditelj, sponzor projekta, sigurnost, pravna/regulatorna pitanja. projektni audit
