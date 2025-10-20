@@ -111,7 +111,7 @@ Za seminare imamo spisak tema
 Usmeni => online...ili termin predavanja ili neki random
 Do 10 ljudi istovremeno
 
-
+##########################
 Time, money, scope
 - trebaju biti izbalansirani da bi projekt bio kvalitetan
 Triple constraint
@@ -135,3 +135,8 @@ Iz perspektive poslovanja, projekti su usmjereni  na pomicanje organizacije iz j
 Organizacija treba pokretanja projekta odrediti svoje postojeće (početno) stanje kako bi bila u mogućnosti mjeriti svoj uspjeh u projektu
 
 ROI => return of investment u ovemu slučaju (a ne region of interest :D )
+
+Projekt => kreiranje poslovne vrijednosti
+Isporuke mogu biti opipljive i neopipljive
+Opipljive: money, stvari, alati, građevine, tržišni udio...
+Neopipljive: reputacija, strateško usmjerenje, javno dobro, dobro raspoloženje, prepoznattljivost brenda...
