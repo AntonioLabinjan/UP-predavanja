@@ -148,3 +148,79 @@ Koristimo projekte za ispuniti strategiju, a strategija služi da ostvarimo misi
 Projekti - sredstvo sa kojim organizacija reagira na faktore koji utječu na njeno poslovanje
 Reakcija organizacije - cilj je uspješno implementirati promjene koje su potrebne za ptilagodbu tim faktorima s ciljem da se osigura kontinuitet i opstojnost
 Faktori bi na kraju trebali imati jasnu vezu prema strateškim ciljevima organizacije i poslovne vrijednosti svakog pojedinog projekta
+
+Portfelji, programi, projekti, operacije
+Vpđenje programa i projekata fokusirano je na to da se ti programi i projekti vode na ispravan način ("right way")
+Vođenje portfelja fokusirano je na to da se vode pravi programi i projekti ("right programs")
+
+1) vodi projekte i programe na ispravan način
+2) vodi portfelje tako da se sastoje od pravih programa i projekata
+
+Najdi pametne stvari za delat  i delaj ih pametno
+
+Upravljanje operacijama
+Bavi se tekućom proizvodnjom proizvoda i/ili usluga
+Osigurava da se tekuće poslovanje odvija efikasno uz optimalno korištenje resursa potrebnih da se ispune očekivanja korisnika
+
+Upravljanje procesa kojima se ulazi u proces (sirovine, energija, novac, rad itd.) pretvaraju u izlaze iz procesa (proizvodi, poluproizvodi ili usluge)
+
+Upravljanje programima => primjena znanja, vještina i principa u vođenju programa kako bi se postigli ciljevi i koristi programa koje ne bi bilo moguće postići vođenjem pojedinačnih projekata zasebno
+Koordinacija više projekata istovremeno 
+npr. Imamo projekt izrade baze, frontenda, backenda => treba ih orekstrirati u program
+
+Portfelj => skup projekata, programa, potportfelja, potprograma i operacija koje se vode koordinirano s ciljem postizanja strateških ciljeva
+Upravljanje portfeljem => centralizirano upravljanje 1 ili više portfelja s ciljem postizanja strateških ciljeva
+
+Utjecaj organizacije na projekt => voditelj projekata surađuje s ostalim voditeljima projekata
+Ostali nezaavisni projekti ili projekti koji su sastavni dio istog programa mogu značajno utjecati na naš projekt zbog (not exclusive...there's more):
+- zahtjeva za istim resursima
+- prioritetno budžetiranje (npr. koji ćemo prvi cuttat ako profali šoldi)
+- primanje ili distribucija rezultata
+
+primjer hijerarhije:
+Predsjednik (CEO), potpredsjednik, članovi uprave, podjedinice/sektori, odjeli, odsjeci/grupe, radnici
+
+Duboke organizacije => one organizacije di od najniže razine upravljanja do najviše razine upravljanja ima više od 4 stepenice
+
+Voditelj projekta je nekamo između odjela i podjedinice
+
+Funkcionalna organizacijka struktura => predsjednik>više direktora podjedinica>ispod svakog direktora podjedinice su radnici
+Svaki radnik ima jednog jedinog nadređenog
+Radnicu su grupirani na najvišem nivou prema specijalnostima (proizvodnja, prodaja, marketing, razvoj, obračun, naplate)
+Projekti se odvijaju unutar odjela i neovisni su o drugim projektima
+
+Slaba matrica => netko od radnika se proglasni koordinatorom
+Ulgoa voditelja projekta je više kao koordinator aktivnosti nego kao pravi voditelj projekta (sve bitno se odredi "gore" u hijerarhiji, a netko sa niže razine to samo koordinira)
+
+Balansirana matrica => voditelj projekta nema potpunu kontrolu nad projektom niti nad budžetom projekta
+
+Jaka matrica => velike sličnosti s projektnim organizacijama
+mogu imati profesionalne voditelje projekata koji imaju velik autoritet i administrativnu snagu koja je stalno zaposlena na projektu
+
+Projektna => podjela po projektima => svaki projekt ima svojeg voditelja i radnike na njemu
+(npr. toyota za svaki model auta ima svoj projekt)
+Točno se zna ki odgovara za koji projekt
+Članovi tima najčešće na istoj lokaciji
+Večina resursa organizacije => rad s projetima
+
+Kompozitna => miš maš
+kombinacija svih spomeutih
+mnogo karakteristika projektnog tima
+Stalno zaposleni iz funkcionlanlih odjela 
+Razvoj vlastitog skupa procesa i procedura
+rad izvan standardne i formalne hijerarhijske strukture
+
+Voditelj projekta => vodi tim i odgovoran je za upravljanje projektom, kako bi se postigli projektni ciljevi i ispunila očekivanja dionika
+Koristi znanje, sposobnost i autoritet za planiranje i kontrolu projketa
+Davanje smjera i prezentiranje vizije uspjeha projekta
+Balans između ograničavajućih faktora (opseg, vrijeme, troškovi => trostuko ograničenje)
+Jedinstvena točka za kontakt u vezi s projektom (single point of contact)
+
+Sponzor projekta => osoba koja očekuje benfit od projekta
+Postavlja ciljeve i očekivanja projekta.
+
+Odobrava budžet i resurse.
+
+Prati napredak i pomaže u uklanjanju većih prepreka.
+
+Na kraju, određuje uspjeh projekta u smislu poslovnih ili strateških ciljeva.
