@@ -617,3 +617,91 @@ U agilnom vođenju projketa nema voditelja projekta kakvog poznajemo u waterfall
 Scrum master pomaže osobama izvan scrum tima da razumiju koje interakcije sa scrum timom su korisne timu, a koje nisu
 Pomaže svim prilagoditi svoju komunikacijus ciljem maksimiziranja vrijendosti koju kreira tim
 Služi svima: owneru, timu i organizaciji
+
+Waterfall vs Agile
+Trošak promjene => Waterfall je skuplji za promjene
+Isporučena vrijednost => u waterfallu dolazi do isporuke vrijednosti tek pred kraj projekta; u agile skoro pa pravac; konstantno nešto novo (increment of done)
+Intenzitet i stres => u waterfallu raste kad se bliže rokovi; u agile je sve manji ča smo dalje u projektu
+Transparentnost i angažiranost korisnika
+
+Odlično, Antonio!
+Zadnja stavka — **Transparentnost i angažiranost korisnika** — je jedna od **najvećih razlika** između **Waterfall** i **Agile** pristupa, i često odlučuje hoće li projekt uspjeti ili ne.
+Ajmo to raščlaniti jasno i kratko, kao za brzi ispitni odgovor:
+
+---
+
+### **Waterfall:**
+
+* **Transparentnost niska.**
+  Korisnik (klijent) **vidi projekt tek kad je gotovo sve napravljeno**, na kraju.
+* Tijekom razvoja ima **malo uvida u napredak** — vidi samo dokumente, planove i eventualne statusne izvještaje.
+* Ako nešto ne valja ili mu se ne sviđa, to se otkrije **kasno**, kad su promjene već **skupe i teške**.
+
+➡️ Ukratko: klijent **nije uključen** tijekom razvoja, pa često dobije *ono što nije točno htio*.
+
+---
+
+### **Agile:**
+
+* **Transparentnost visoka.**
+  Klijent je **stalno uključen** — vidi nove verzije proizvoda **svakih par tjedana** (nakon svakog sprinta).
+* Tim i korisnik **otvoreno komuniciraju** o napretku, problemima i idejama.
+* Na **Sprint Review** sastanku klijent vidi *živu verziju proizvoda* i može odmah dati feedback.
+
+➡️ Ukratko: korisnik je **dio procesa**, ima **stalni uvid** i **utjecaj na razvoj** → rezultat je proizvod koji stvarno zadovoljava njegove potrebe.
+
+---
+
+### **Sažetak usporedno:**
+
+| Element                | Waterfall                                        | Agile                                        |
+| ---------------------- | ------------------------------------------------ | -------------------------------------------- |
+| Transparentnost        | Niska – korisnik vidi rezultat tek na kraju      | Visoka – korisnik vidi napredak svaki sprint |
+| Angažiranost korisnika | Pasivna – samo na početku i kraju                | Aktivna – stalno uključen u razvoj           |
+| Posljedica             | Rizik da proizvod ne odgovara stvarnim potrebama | Brze korekcije i veće zadovoljstvo korisnika |
+
+---
+
+**Ukratko:**
+➡️ *Waterfall* skriva napredak do kraja.
+➡️ *Agile* otvara proces, uključuje korisnika i stalno isporučuje vrijednost.
+
+Onaj meme s ljuljačkom na drvu to dobro opisuje :D
+
+Projektni management i sinergija znanja
+
+Treba uklopit sljedeće:
+Znanja i prakse općeg managementa + Znanja i prakse projektnog managementa + Znanja i prakse područja provedbe
+
+PMMM => model zrelosti upravljanja projektima => JAKO BITNO
+5 nivoa
+1) Zajednički jezik (usvojena osnovna znanja u vođenju projekata)
+2) Zajednički procesi (usvojeni procesi prema kojima se vode projekti)
+3) Jedinstvena metodologije (koordinirano upravljanje procesima prema kojima se provode projekti; napišemo točno ča i kako)
+4) Mjerenje i uspoređivanje (unaprjeđenje temeljem benchmarkinga i primjena Lessons Learned u novim projektima)
+5) Kontinuirano unaprjeđenje => bitno je koristit povratne informacije
+
+Procesne grupe upravljanje projektima
+Ulazna faza/početak projekta
+Inicijacijski procesi/initiating
+Procesi praćenja i kontrole (planiranje + izvršavanje  + zatvaranje)
+
+Ključne komponente
+10 područja znanja => i iz njih se izvlači u
+Inicijacijski procesi
+Procesi planiranja
+Procesi izvršavanja
+Procesi praćenja i kontrole
+Procesi zatvaranja
+
+
+Bitno je biti prilagodljiv promjenama
+
+C = VxDxF > R
+C -> change (promjena)
+V -> a positive vision for future (pozitivna vizija budućnosti)
+D -> dissatisfaction with status quo (nezadovoljstvo trenutnim stanjem)
+F -> first steps (plan ostvarenja vizije - učiknoviti prvi koraci pri uvođenju promjene)
+R -> natural human resistance to change (prirodan ljudski otpor na promjenu)
+
+Bitno je objasnit ljudima koja je poanta promjene
