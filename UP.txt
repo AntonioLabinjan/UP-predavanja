@@ -235,7 +235,385 @@ imovina organizacijskih procesa (OPA, organizational process assets) => procesi 
 organizacijski sustavi (OS, organizational systems) => okviri vođenja poslovanja, elementi upravljanja, org. strukture
 
 Organizacijska baza znanja => lessons learned nakon svakog projekta
-
 4 tipa projekta:
 vidit na ppt...ne znan izvuć niš suvislo van :D
 
+WBS => aktivnosti i milestonesi
+Work breakdown structure
+Gantogram (Gantt Chart)
+
+
+---
+
+### **WBS (Work Breakdown Structure)**
+
+To je **hijerarhijski prikaz projekta** — razbijaš cijeli projekt na **manje, upravljive dijelove (zadaće i podzadaće)**.
+Cilj: da **ništa ne promakne** i da se **točno zna tko što radi i kada**.
+
+Primjer:
+Projekt: *Izrada web aplikacije*
+
+1. Planiranje
+    1.1. Analiza zahtjeva
+    1.2. Definicija specifikacija
+2. Dizajn
+    2.1. UI/UX dizajn
+    2.2. Arhitektura sustava
+3. Implementacija
+    3.1. Frontend
+    3.2. Backend
+4. Testiranje
+5. Deploy
+
+→ Dakle, WBS = **struktura posla**, temelj za planiranje resursa i vremena.
+
+Aktivnosti i milestonesi
+---
+
+### **Gantogram (Gantt Chart)**
+
+To je **vremenski raspored aktivnosti** prikazan **grafički** (najčešće kao vodoravne trake).
+Os x = vrijeme,
+Os y = zadaci.
+
+Svaka traka pokazuje **kad zadatak počinje, koliko traje i kad završava**.
+Možeš vidjeti i **ovisnosti** između zadataka (npr. Backend se ne može testirati dok nije završen).
+
+Primjer:
+
+```
+Zadatak           | Početak | Trajanje | Vizualno
+Analiza zahtjeva  | Dan 1   | 5 dana   | █████
+Dizajn            | Dan 6   | 7 dana   |      ███████
+Implementacija    | Dan 13  | 10 dana  |           ██████████
+```
+
+→ Dakle, Gantogram = **vremenska vizualizacija plana rada**, pomaže pratiti napredak.
+
+---
+
+Ukratko:
+
+* **WBS = što sve treba napraviti (struktura posla)**
+* **Gantogram = kada se što radi (vremenski raspored)**
+
+
+---
+
+### **Aktivnost (Activity)**
+
+* To je **zadatak koji se mora obaviti**.
+* **Traje neko vrijeme** (npr. 3 dana, 1 tjedan...).
+* Ima **resurse** (ljude, opremu, trošak).
+
+**Primjer:** “Implementirati login sustav” → traje 5 dana.
+
+---
+
+### **Milestone (Prekretnica)**
+
+* To je **točka u vremenu**, **nema trajanje**.
+* Označava **važan događaj ili završetak faze**.
+* Koristi se za **praćenje napretka** i **provjeru ciljeva**.
+
+**Primjer:** “Završena implementacija modula za login” → trenutak kada aktivnost završi.
+
+---
+
+**Ukratko:**
+
+* **Aktivnost = radi se (ima trajanje)**
+* **Milestone = postignuto (nema trajanje)**
+
+Postoci => postotak dovršenosti => koliko % je odrađena faza
+Ako je svuda 0, onda znači da nije ni krenuo
+
+Veze između aktivnosti:
+FS => finish, start => druga aktivnost može krenuti kada je prva gotova
+SS => start, start => i prva i druga aktivnost kreću istovremeno
+FF => finish, finish => obadvije aktivnosti trebaju završiti istovremeno
+####### MUY IMPORTANTE ###########
+Critical path => vidimo koje aktivnosti su ključne...koje ne smiju kasniti => te aktivnosti utječu na ukupnu trajanje projekta
+Slack => aktivnosti koje nisu na kritičnom putu => smiju malo kasniti
+##################################
+
+Waterfall
+Analyze, plan, design, build, test, deploy
+
+---
+
+### 💧 **Waterfall model (vodopadni pristup)** => ima jako puno dokumentacije i papirologije
+
+To je **sekvencijalni model razvoja projekta ili softvera** — ideš **korak po korak**, svaka faza mora biti **završena prije nego kreneš na sljedeću**.
+Zamisli vodopad: voda (informacija) teče samo **u jednom smjeru – prema dolje**.
+
+---
+
+## **1. Analyze (Analiza)**
+
+* Prva i najkritičnija faza.
+* Prikupljaš **zahtjeve klijenta** i definiraš **što točno treba sustav raditi**.
+* Dokumentiraš sve (funkcionalne i nefunkcionalne zahtjeve).
+
+**Cilj:** svi znaju *što* gradimo i *zašto*.
+**Output:** dokument specifikacija zahtjeva (SRS).
+
+---
+
+## **2. Plan (Planiranje)**
+
+* Definiraš **vremenski plan (Gantt), resurse, troškove i rokove**.
+* Raspoređuješ aktivnosti i timove.
+* Planiraš rizike i kontrolne točke (milestone-e).
+
+**Cilj:** imati realan plan koji vodi do gotovog proizvoda.
+
+---
+
+## **3. Design (Dizajn)**
+
+* Razrađuješ **arhitekturu sustava** i **UI/UX izgled**.
+* Dizajniraš baze podataka, module, API-je.
+* Iz analize prelaziš u konkretne tehničke odluke.
+
+**Cilj:** imati jasan nacrt *kako* će se sustav izgraditi.
+
+---
+
+## **4. Build (Izgradnja / Implementacija)**
+
+* Programeri kreću s **kodiranjem prema dizajnu**.
+* Sustav se razvija dio po dio.
+
+**Cilj:** izgraditi funkcionalan softver koji ispunjava sve zahtjeve.
+
+---
+
+## **5. Test (Testiranje)**
+
+* Provjerava se ispravnost sustava.
+* Radi se **unit test, integration test, system test, acceptance test**.
+* Cilj je pronaći bugove i potvrditi da sve radi kako treba.
+
+**Cilj:** osigurati kvalitetu prije puštanja u produkciju.
+
+---
+
+## **6. Deploy (Implementacija / Puštanje u rad)**
+
+* Sustav se **isporučuje korisniku** ili ide u **produkcijsko okruženje**.
+* Ponekad uključuje i **obuku korisnika** i **održavanje**.
+
+**Cilj:** da softver živi i radi u stvarnom svijetu.
+
+---
+
+### **Ključne karakteristike Waterfall modela:**
+
+✅ Jasna struktura (sve je definirano unaprijed)
+✅ Lako upravljanje velikim, stabilnim projektima
+❌ Slaba fleksibilnost (ako kasno skužiš grešku – teško ju je popraviti)
+❌ Nije pogodan za projekte gdje se zahtjevi mijenjaju
+
+---
+
+**Kada koristiti Waterfall?**
+
+* Kad su **zahtjevi fiksni i dobro poznati**.
+* Kad postoji **stroga dokumentacija i regulativa** (npr. bankarstvo, medicina).
+* Kad želiš **jasne faze i kontrolu nad napretkom**.
+
+---
+
+---
+
+## ⚡ **Agile (Agilni pristup razvoju softvera)** => super ako se korisnik predomišlja
+
+To je **iterativni i inkrementalni pristup** — projekt se ne radi odjednom, nego u **malim dijelovima (iteracijama)** koji stalno donose *nešto funkcionalno* i *korisno*.
+Umjesto da čekaš kraj projekta da vidiš rezultat — **imaš rezultat svakih par tjedana**.
+
+---
+
+### **Osnovna filozofija Agile-a:**
+
+* Ljudi i komunikacija važniji su od procesa i alata.
+* Funkcionalni softver važniji je od dokumentacije.
+* Suradnja s korisnikom važnija je od formalnog ugovora.
+* Reakcija na promjene važnija je od slijepe izvedbe plana.
+
+*(To je doslovno srž “Agile manifesta”.)*
+
+---
+
+## 🔁 **Kako to izgleda u praksi**
+
+Projekt se dijeli na **sprintove** (tipično 1–4 tjedna).
+Svaki sprint prolazi mini verziju “analyze → design → build → test → deliver”.
+Na kraju svakog sprinta imaš **gotov, testiran i isporučiv dio proizvoda**.
+
+Znači:
+umjesto “napravi sve pa testiraj”, ideš “napravi mali dio, pokaži, ispravi, nastavi dalje”.
+
+---
+
+## 🧩 **Agile tim i uloge (Scrum varijanta najčešća)**
+
+* **Product Owner** – definira *što korisniku treba*, postavlja prioritete.
+* **Scrum Master** – vodi tim, rješava prepreke, čuva proces “agilnim”.
+* **Development Team** – programeri, dizajneri, testeri koji *rade posao*.
+
+---
+
+## 📅 **Glavne ceremonije (Scrum rutina)**
+
+1. **Sprint Planning** – dogovor što će se raditi u idućem sprintu.
+2. **Daily Stand-up** – kratki dnevni sastanak (15 min): što si radio, što ćeš, imaš li blokadu.
+3. **Sprint Review** – pokazuješ klijentu što je gotovo.
+4. **Sprint Retrospective** – tim analizira kako može raditi bolje u sljedećem sprintu.
+
+---
+
+## ✅ **Prednosti Agile pristupa**
+
+* Fleksibilan — lako reagiraš na promjene.
+* Brz feedback — klijent vidi napredak svakih par tjedana.
+* Više motivacije u timu (stalni osjećaj napretka).
+* Manji rizik — problemi se otkriju rano.
+
+---
+
+## ❌ **Nedostaci Agile-a**
+
+* Manje formalne dokumentacije.
+* Teže procijeniti točan budžet i rokove.
+* Nije idealan za jako velike, strogo regulirane sustave.
+
+---
+
+### **Waterfall vs Agile — usporedno:**
+
+| Element       | Waterfall          | Agile                  |
+| ------------- | ------------------ | ---------------------- |
+| Pristup       | Sekvencijalni      | Iterativni             |
+| Promjene      | Teško ih je uvesti | Lako se prilagođava    |
+| Isporuka      | Na kraju projekta  | Nakon svakog sprinta   |
+| Dokumentacija | Detaljna           | Minimalna              |
+| Klijent       | Uključen malo      | Uključen stalno        |
+| Rizik         | Viši               | Niži (stalni feedback) |
+
+---
+
+**Ukratko:**
+➡️ *Waterfall* = plan, pa izvedba, pa test — sve u fazama.
+➡️ *Agile* = brzo, po komadićima, stalno isporučuješ i poboljšavaš.
+
+---
+
+Agile=> requirements change, customer turnover, technology innovation => waterfall to ne voli jer se ne moreš vraćat nazad
+
+Definition of done => unutar tima se treba dogovorit ča točno znači "bit gotov"
+Zadovoljiti klijenta
+Dobrodošli promjenjivi zahtjevi
+Česta isporuka
+Suradnja
+Motivirani pojedinci
+Razgovori licem u lice
+Working software je mjerilo napretka
+Održivi razvoj
+Jednostavnost
+
+Teorija Scrum-a
+Iskustvena (empirijska) kontrola procesa => znanje proizlazi iz iskustva i donošenja odluka na temelju poznatog
+Iterativni, inkrementalni pristup => optimizacija predvidljivosti i kontrole rizika
+
+3 stupa
+Transparentnost => zajednički jezik među svim sudionicima, zajedničko razumjevanje onoga što se komunicira (definition of done)
+Inspekcija => neprestana provjera Scrum artefakata i napretka prema cilju sprinta-a
+Prilagodba => ukoliko se tijekom inspekcije ustvanovi da neki aspekt procesa odstupa izvan prihvatljivih granica, uzrokujući da će konačan proizvod biti neprihvatljiv, proces ili materijal je potrebno prilagoditi da bi se izbjegao takav ishod
+
+##### procijenit ča smo loše odradili je bitno
+
+Scrum team => product owner, development team i scrum master
+samoorganizirajući, krosfunkcionalni tim koji samostalno odlučuje kako da najbolje odradi zadan posao
+članovi moraju imati odgovarajuće kompetencije potrebne za odradu zadanog posla bez potrebe da se oslanjaju na osobe koje nisu članovi tima
+iterativno i inkrementalno isporučivanje produkata + maksimizacija prilike za povratnu informaciju klijenta/korisnika
+inkrementalne isporuke od "done" produkta/funkcionalnosti da budu uvijek dostupnne kao potencijalno upotrebljive verzije radnog proizvoda/funkcionalnosti
+Korisnik inkrementalno dobiva komad proizvoda na kraju sprinta => prilika da da svoj feedback
+
+Product owner
+Osoba koja točno zna koji su zahtjevi i potrebni koraci razvoja
+1 osoba
+Točno zna koji su requirementsi
+odlučuje što treba učiniti i dalje razvojnom timu ciljeve
+maksimiziranje vrijednosti proizvoda i vrijednosti rada tima
+nadležan za donošenje odluka => odobrenje svake promjene u njegovoj odgovornosti
+vidljivost i transparentnost product backloga => ča se trenutno razvija i ča će se dalje razvijat
+informira razvojni tim da znaju ča točno treba delat
+upravlja backlogom
+
+---
+
+## 🧱 **Product Backlog – što je to?**
+
+To je **popis svih stvari koje treba napraviti** da bi se proizvod (app, sustav, softver) razvio.
+Doslovno: **“to-do lista cijelog projekta”**, ali **stalno se mijenja i nadograđuje**.
+
+---
+
+## 🔍 **Tko ga vodi?**
+
+👉 **Product Owner** je “vlasnik” backloga.
+On dodaje nove zahtjeve, prioritizira ih i ažurira kako projekt napreduje.
+
+---
+
+## 📋 **Što se sve nalazi unutra?**
+
+Svaka stavka se zove **Product Backlog Item (PBI)**, i može biti:
+
+* **User story** – npr. “Kao korisnik želim resetirati lozinku.”
+* **Bug** – npr. “Login puca ako unesem prazno polje.”
+* **Task** – npr. “Dodati validaciju email adrese.”
+* **Feature / Epic** – veći dijelovi funkcionalnosti.
+
+---
+
+## 🧩 **Kako funkcionira**
+
+1. **Na početku** imaš grubu listu ideja/zahtjeva.
+2. **Product Owner** ih razrađuje i daje prioritet (što je najvažnije prvo).
+3. Na **Sprint Planningu**, tim uzima **top stavke** iz Product Backloga i prebacuje ih u **Sprint Backlog** (to je lista za taj sprint).
+4. Nakon sprinta, backlog se **ažurira** — dodaju se nove ideje, neke stavke se brišu ili dorađuju.
+
+---
+
+## 🎯 **Ključne karakteristike**
+
+* **Dinamičan je** – stalno raste i mijenja se.
+* **Prioritiziran** – najvažnije stavke su uvijek gore.
+* **Vidljiv svima** – cijeli tim zna što slijedi.
+* **Ne mora biti kompletan** – razvija se tijekom projekta.
+
+---
+
+**Ukratko:**
+➡️ **Product Backlog = glavni popis svega što se želi u proizvodu.**
+➡️ **Sprint Backlog = ono što tim konkretno radi u tekućem sprintu.**
+
+---
+
+Razvojni tim
+Profesionalci koji rade inkrement od "done" na kraju svakog sprinta
+samoorganizirajući + podrška managementa da samostalno odlučuje i upravlja svojim radom
+nitko im nije ovlašten govoriti kako da rade
+sve kompetencije koje su potrebne za kreiranje inkrementa produkta/funkcionalnosti
+nema podtimova; svaki član ima ulogu developera
+pojedini članovi imaju određene vještine, ali odgovornost je na cijelom timu
+
+Scrum master
+Osoba koja je odgovorna da tim razumije scrum, da provodi scrum i da ga se poštoje
+Uslužni voditelj tima
+U agilnom vođenju projketa nema voditelja projekta kakvog poznajemo u waterfallu
+Scrum master pomaže osobama izvan scrum tima da razumiju koje interakcije sa scrum timom su korisne timu, a koje nisu
+Pomaže svim prilagoditi svoju komunikacijus ciljem maksimiziranja vrijendosti koju kreira tim
+Služi svima: owneru, timu i organizaciji
