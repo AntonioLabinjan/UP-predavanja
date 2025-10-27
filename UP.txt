@@ -734,3 +734,4 @@ Upravljanje procesima koji pretvaraju input(sirovine, materijali, komponente, en
 Kontinuirano unapjrđenje procesa
 Nevjerojatno jednostavno i izuzetno složeno
 Važno je dobro dokumentirati proces (nekad je dobar crtež 80% rješenja)
+
