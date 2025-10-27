@@ -705,3 +705,32 @@ F -> first steps (plan ostvarenja vizije - učiknoviti prvi koraci pri uvođenju
 R -> natural human resistance to change (prirodan ljudski otpor na promjenu)
 
 Bitno je objasnit ljudima koja je poanta promjene
+
+Korisnik u projektu želi da dobiveni izlaz bude proporcionalan ulazu koji on daje
+ALI => korisnici imaju varijabilne zahtjeve
+
+Upravljanje procesima => primjena znanja, alata, resursa
+
+Izlaz (y) npr. Juha
+Ulaz (x) npr. Sastojci
+y = f(x) npr. Način kuhanja/recept koji sastojke pretvara u juhu
+
+f(x) => proces
+
+Proces je pod kontrolom kada output ne ovisi o izvršitelju procesa (npr. juha je vajka ista, neovisno ki je kuha)
+Cilj procesa => imati zadovoljne korisnike, ali usluge i/ili proizvode stvarati/isproučivati na profitabilan način
+
+Koncept orijentiranosti prema korisniku
+KADA
+Jeftnijie je začepiti rupu u kadi kroz koje bježe korisnici, nego pribaviti nove korisnike
+
+Ali ljudi se većinom bave s tim da dodaju još vode u kadu
+"ŠPINA MANAGEMENT"
+
+Upravljenje operacijama => izvan formalnog upravljanja projektima
+Tekuće poslovanje; proizvodnja roba i/ili usluga na efikasan način uz optimalnu upotrebu resursa s ciljem ispunjenja zahtjeva korisnika
+Upravljanje procesima koji pretvaraju input(sirovine, materijali, komponente, energija, radna snaga) u output (proizvodi, roba, servisi)
+
+Kontinuirano unapjrđenje procesa
+Nevjerojatno jednostavno i izuzetno složeno
+Važno je dobro dokumentirati proces (nekad je dobar crtež 80% rješenja)
