@@ -834,6 +834,44 @@ Akronim TIMWOOD => svako od slova predstavlja tip beskorisnog što je potrebno e
 2) inventory (skladište)
 3) movement/motion(transport u istom procesu; npr. radnik mora puno nepotrebno šetat po hali i iskat ordenje => ergonomija radnog mjesta (osvjetljenje, pozicija, udobnost itd.)
 4) waiting (čekanje; ne smijemo nešto čekat da se nešto desi u procesu da moremo nastavit) 
-5) overproduction (proizvodnja prevelikih količina; moramo prebacit u skladište :()
+5) overproduction (proizvodnja prevelikih količina; moramo prebacit u skladište :(
 6) overprocessing (pretjerana obrada; potrošimo više energije/novaca/resursa nego ča je bilo potrebno za zadovoljavajuće finiširat task)
 7) defects/rework (nedostaci i ispravci nedostataka)
+
+Načela lean managementa
+Smanjenje beskorisnog terata u procesima
+1) uključiti zaposlenike
+2) eliminirati teret
+3) težiti potpunom zadovoljstvu korisnika
+4) poboljšati kvalitetu
+I tako u krug
+
+
+1) W – Workload (radni teret)
+Koliko posla proces traži.
+Obuhvaća fizički rad, kognitivni rad, broj komadića posla i ponavljanja.
+
+2) O – Operations (operacije)
+Koje radnje se moraju odraditi, kako se izvode, kojim redoslijedom i koliko kompleksne jesu.
+
+3) R – Resources (resursi)
+Sve što proces troši: oprema, alati, strojevi, energija, materijal, softver.
+
+4) M – Materials (materijali)
+Ulazni materijali koji ulaze u proces, njihova kvaliteta i stabilnost.
+
+5) P – People (ljudi)
+Tko izvodi proces, koliko ih treba, njihove kompetencije i opterećenost.
+
+6) I – Information (informacije)
+Sve informacije koje su potrebne za izvođenje procesa: dokumenti, podaci, specifikacije, upute.
+
+7) I – Infrastructure (infrastruktura)
+Okruženje i uvjeti u kojima proces radi: prostor, mreža, strojevi, sigurnost.
+
+8) T – Time (vrijeme)
+Koliko dugo traje proces, koliko ima čekanja, zastoja, idle stanja.
+
+9) T – Technology (tehnologija)
+
+Koja tehnologija pogoni proces i koliko je učinkovita, stabilna i skalabilna.
