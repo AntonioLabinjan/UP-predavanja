@@ -791,3 +791,49 @@ Quick win improvements
 
 Ukoliko su ispunjeni svi preduvjeti, rješenje treba odmah implementirati
 
+Lean 
+"Oni koji nisu nezadovoljni nikad neće napredovati"
+1. Newtonov zakon => tijela se opiru promjenama
+
+"Niš ni toliko beskorisno kao da efikasno delaš nešto ča se uopće ne bi trebalo delat"
+"Ne moreš upravljat s nečin ča ne moreš izmjerit"
+"Bez podataka, samo si još 1 osoba s mišljenjem"
+
+85% razloga zašto organizacije ne uspijevaju ispuniti očekivanja korisnika, je zbog nedostataka sustava i procesa, a ne zbog zaposlenika
+Menadžment bi trebao promijeniti proces, a ne peglati ljude da rade bolje
+
+Što postižemo uvođenjem leana?
+- najbolja sigurnost (npr. definiramo standardnu proceduru za rad s alatom, da se niki ne ubije :D )
+- osigurava se predvidivost
+- kvaliteta proizvoda/usluga (neki ključni parametri)
+- najkraće vrijeme provedbe procesa
+- najniži trošak
+- najviši moral zaposlenika
+
+
+1900
+Podjela radne snage prema tipovima posla
+Pokretna traka
+Katalog rezervnih djelova
+Veliki volumeni proizvodnje
+Nizak trošak proizvodnje
+
+1950
+Toyota Production System
+Napravit brzo
+Kvalitetno podijelit poslove
+Odraditi neki set operacija ponovljivo, uvijek na isti način (a.k.a. pokretna traka)
+Pull princip => proizvodi i usluge su uvijek dostupni u dovoljnoj količini bez obzira na demand
+Push prinicp => pokušavaju korisniku uvalit kitkat na benzinskoj :D
+
+SMANJENJE BESKORISNOG u procesima
+U Lean-u, procesni teret se zove "muda"; japanska riječ za beskorisno
+Akronim TIMWOOD => svako od slova predstavlja tip beskorisnog što je potrebno eliminirati
+
+1) transportation (transport između procesa)
+2) inventory (skladište)
+3) movement/motion(transport u istom procesu; npr. radnik mora puno nepotrebno šetat po hali i iskat ordenje => ergonomija radnog mjesta (osvjetljenje, pozicija, udobnost itd.)
+4) waiting (čekanje; ne smijemo nešto čekat da se nešto desi u procesu da moremo nastavit) 
+5) overproduction (proizvodnja prevelikih količina; moramo prebacit u skladište :()
+6) overprocessing (pretjerana obrada; potrošimo više energije/novaca/resursa nego ča je bilo potrebno za zadovoljavajuće finiširat task)
+7) defects/rework (nedostaci i ispravci nedostataka)
