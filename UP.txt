@@ -735,3 +735,59 @@ Kontinuirano unapjrđenje procesa
 Nevjerojatno jednostavno i izuzetno složeno
 Važno je dobro dokumentirati proces (nekad je dobar crtež 80% rješenja)
 
+Funkcionalni sustav upravljanja
+Svaki odjel ima voditelja
+Ispod njega je vertikala
+Bilježe se učinci svakog odjela => u kojoj je poziciji u odnosu na ciljeve
+Onaj koji je više ima neki cilj => dekomponira ga u manje ciljeve i delegira to drugima ispod sebe
+
+Ukupno su to funkcionalni ciljevi
+Ciljevi odjela su međusobno različiti
+
+Procesni ciljevi => ciljevi svakog procesa unutar sustava
+
+Što mijenjati prilikom upravljanja procesima
+
+Smanjenje troška
+NE => povremene optimizacije troškova 
+DA => neprekidna i sustavna poboljšanja (omogućuju linearne i brže procese koji se prate putem KPI-jeva (key performance indicator)
+
+Poboljšanje kvalitete
+NE => nadzor procesa nije sustavan
+DA => kontinuirano mjerenje -> fokus na utjecaj na korisnika
+
+SVAKAKO ŽELIMO SMANJITI PONAVLJAJUĆE GREŠKE (npr. isti korisnik se konstantno javlja s problemima u telekomu)
+
+Orijentiranost korisniku
+NE => pretpostavljati zahtjeve i potrebe korisnika => nema poveznica s zahtjevima na proces
+DA => zahtjevi korisnika sustavno se istražuju i pretvaraju se u procesne zahtjeve
+
+Promjena
+NE => procesi se oraniziraju unutar funkcija i sustavno se ne prate (ODLUKE SE NE DONOSE NA TEMELJU OSJEĆAJA U TRBUHU)
+DA => end-to-end pregled procesa i mjerenje 
+
+AS-IS opis procesa => gledamo ča se dešava i to bilježimo (npr. BPMN)
+- zabilježimo na svaki korak procesa primjedbe od osobe koja se bavi tim djelom procesa
+
+TO-BE => svi se dogovore ča bi trebalo napravit; kako poboljšat
+
+COULD-BE => ono ča bi moglo bit nekad u budućnosti
+
+BITNO JE GLEDAT KROZ PERSPEKTIVU KORISNIKA (NAPRAVIT DA ON BUDE HAPPY)
+
+Pristupi u poboljšanju procesa
+Ono ča nan zdrav razum govori da treba popravit
+Ono za ča su svi suglasni, ali ni vidljivo iz prve
+Ono za ča su ipak potrebne tehnike rješavanja problema
+Na samemu kraju: projekti za unaprjeđenje procesa i redizajn procesa
+
+Quick win improvements
+- uzrok problema je jasan
+- jednostavno za promjenit i brzo se provede
+- konsenzus unutar tima vrlo brzo se postiže => nema diskusije unutar tima treba li se to uvesti ili ne
+- unaprjeđenje procesa može se brzo provesti
+- promjena koja se uvodi je reverzibilna i može se vratiti na staro bilo kada
+- projektni tim može implementirati promjenu u procesu bez dodatnih resursa (ili s nekim minimumom minimuma)
+
+Ukoliko su ispunjeni svi preduvjeti, rješenje treba odmah implementirati
+
