@@ -875,3 +875,25 @@ Koliko dugo traje proces, koliko ima čekanja, zastoja, idle stanja.
 9) T – Technology (tehnologija)
 
 Koja tehnologija pogoni proces i koliko je učinkovita, stabilna i skalabilna.
+
+Za usmeni znat primjere :D
+
+Pogreške u razumijevanju lean-a
+Alati: 5S; JIT
+JIT => just in time; imamo skladišta za spriječit nestašice, ali ne gomilamo proizvode pretjerano
+Lean ne služi za smanjenje broja radnih mjesta
+
+Principi leana:
+Value - vrijednost (kakav naš proizvod mora bit da kupac bude happy)
+Mapiranje toka vrijednosti (value stream up)
+Flow/tok - ulaz => proces => izlaz
+Pull koncept (kitkat :D)
+Težiti savršenstvu (eliminirati procesne terete, poboljšati vrijednost)
+
+Film: proizvodnja toyota automobila => kako lean funkcionira
+
+ZA PROJEKT:
+Projektna povelja mora bit relativno kratka i sažeta
+Zahtjevi, potrebe, vremenski plan, pretpostavke i ograničenja itd.
+Pazit koje faze koristin; mora imat smisla
+Dobro definirat konačnu isporuku
