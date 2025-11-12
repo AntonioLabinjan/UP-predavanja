@@ -1,0 +1,63 @@
+PHASES
+
+Task	Start Date	End Date	Duration (days)
+Initiation	2025-11-17	2025-11-22	5
+Planning	2025-11-23	2025-11-30	7
+Procurement & Infrastructure	2025-12-01	2025-12-21	20
+GDPR & Legal	2025-12-22	2026-01-03	12
+Software Installation & Configuration	2026-01-04	2026-01-18	14
+Data Collection & Labeling	2026-01-19	2026-01-29	10
+Model Development & Indexing	2026-01-30	2026-02-13	14
+Integration & Application Development	2026-02-14	2026-03-06	20
+Testing	2026-03-07	2026-03-21	14
+Deployment & Handover	2026-03-22	2026-04-01	10
+Maintenance & Monitoring	2026-04-02	2026-05-02	30
+
+
+TASKS
+
+Phase	Task	Start Date	End Date	Duration (days)
+Initiation	Project kick-off meeting	2025-11-17	2025-11-19	2
+Initiation	Stakeholder identification & roles	2025-11-20	2025-11-22	2
+Initiation	Define high-level scope & success criteria	2025-11-23	2025-11-24	1
+Planning	Requirements gathering	2025-11-25	2025-11-28	3
+Planning	Detailed WBS & schedule	2025-11-29	2025-12-01	2
+Planning	Risk & mitigation plan	2025-12-02	2025-12-03	1
+Planning	Budget & procurement plan	2025-12-04	2025-12-05	1
+Procurement & Infrastructure	Hardware selection & vendor contact	2025-12-06	2025-12-11	5
+Procurement & Infrastructure	Network infrastructure prep (PoE/VLAN)	2025-12-12	2025-12-17	5
+Procurement & Infrastructure	Hardware delivery & inventory	2025-12-18	2025-12-23	5
+Procurement & Infrastructure	Mounting & installation	2025-12-24	2025-12-29	5
+GDPR & Legal	Data Protection Impact Assessment (DPIA)	2025-12-30	2026-01-03	4
+GDPR & Legal	Consent forms & employee notices	2026-01-04	2026-01-07	3
+GDPR & Legal	Internal policies setup	2026-01-08	2026-01-11	3
+GDPR & Legal	Legal review & sign-off	2026-01-12	2026-01-14	2
+Software Installation & Configuration	Server setup (OS, Docker, updates)	2026-01-15	2026-01-18	3
+Software Installation & Configuration	Install ML frameworks (PyTorch, CLIP)	2026-01-19	2026-01-22	3
+Software Installation & Configuration	Database & API setup	2026-01-23	2026-01-27	4
+Software Installation & Configuration	Logging & backup configuration	2026-01-28	2026-02-01	4
+Data Collection & Labeling	Employee scheduling & consent collection	2026-02-02	2026-02-05	3
+Data Collection & Labeling	Photo sessions & supplementary images	2026-02-06	2026-02-09	3
+Data Collection & Labeling	Data labeling & formatting	2026-02-10	2026-02-12	2
+Data Collection & Labeling	Quality assurance	2026-02-13	2026-02-15	2
+Model Development & Indexing	Preprocessing & augmentation pipeline	2026-02-16	2026-02-19	3
+Model Development & Indexing	CLIP fine-tuning / config	2026-02-20	2026-02-24	4
+Model Development & Indexing	FAISS index build & optimization	2026-02-25	2026-03-01	4
+Model Development & Indexing	Evaluation (accuracy, latency, FAR/FRR)	2026-03-02	2026-03-05	3
+Integration & Application Development	Backend API & admin UI	2026-03-06	2026-03-11	5
+Integration & Application Development	Camera feed integration & edge config	2026-03-12	2026-03-17	5
+Integration & Application Development	Liveness / anti-spoofing module	2026-03-18	2026-03-23	5
+Integration & Application Development	Reports, notifications, exports	2026-03-24	2026-03-29	5
+Testing	Unit & integration testing	2026-03-30	2026-04-03	4
+Testing	Pilot rollout	2026-04-04	2026-04-08	4
+Testing	Field testing (lighting, occlusion)	2026-04-09	2026-04-12	3
+Testing	Load & security testing	2026-04-13	2026-04-16	3
+Deployment & Handover	Production deployment	2026-04-17	2026-04-20	3
+Deployment & Handover	Admin & helpdesk training	2026-04-21	2026-04-24	3
+Deployment & Handover	Documentation & recovery plan	2026-04-25	2026-04-27	2
+Deployment & Handover	Go-live sign-off	2026-04-28	2026-04-30	2
+Maintenance & Monitoring	Monitoring & alerting setup	2026-05-01	2026-05-06	5
+Maintenance & Monitoring	Model drift checks & retraining plan	2026-05-07	2026-05-12	5
+Maintenance & Monitoring	Backups & retention enforcement	2026-05-13	2026-05-18	5
+Maintenance & Monitoring	GDPR audits & periodic reviews	2026-05-19	2026-05-24	5
+Maintenance & Monitoring	Continuous support & SLA	2026-05-25	2026-06-04	10
