@@ -897,3 +897,68 @@ Projektna povelja mora bit relativno kratka i sažeta
 Zahtjevi, potrebe, vremenski plan, pretpostavke i ograničenja itd.
 Pazit koje faze koristin; mora imat smisla
 Dobro definirat konačnu isporuku
+
+
+Ne moraju svi inputi u proces doći iz istog sourcea
+Bitno je identificirati najvažnije inpute za dobar output
+Cilj procesa je imati zadovoljne korisnike, ali isto tako usluge i/ili proizvode stvarati/isporučivati na profitabilan način
+
+Procesni koraci
+Većina ih ne dodaje vrijednost (non-value adding) (85%)
+Neke dodaju vrijednost (value-adding) (3-5%)
+Neke omogućuju dodanu vrijednost (value-enabling) (10-15%)
+
+Pitanja:
+Je li korisnik spreman platiti određenu aktivnost?
+Preoblikuje li aktivnost proizvod ili uslugu?
+Odvija li se aktivnost prvi put?
+
+If (count(DA)) == 3, to je Value Adding
+
+If (count(DA)) == 2 => pitamo se "je li to poslovni zahtjev?"
+Ako je odgovor da, to je value adding
+Ako je odgovor ne, to nije value adding
+Želimo minimizirati količinu NVA!
+
+
+Zelena => VA
+Plava => VE
+Crvena => NVA
+
+Demingov kotač kontinuiranog poboljšanja (PDCA; plan, do, check, act)
+Plan: promatranje i analiza; identifikacija problema i planovi promjene; izoliranje temeljnih uzroka poblema; definirati korektivne akcije
+Do: pripremiti promjenu/e, provesti promjenu/e i prikupiti podatke, potvrditi da je promjena napravljena kako je bilo planirano
+Check: provjeriti rezultate poduzetih akcija, usporediti postignute rezultate s očekivanim ishodima, odabrati najbolju promjenu za implementirati
+Act: standardizirati i konsolidirati aktivnosti; pripremiti se za sljedeći ciklus plana poboljšanja procesa
+
+Kontinuirano unaprjeđenje procesa
+Bad idea:
+Fokusirati se samo na promjenu 
+Izbaciti staro u potpunosti i uvesti kompletno novo => error margin; riskiramo da stvar dela potpuno gore
+
+Fokusirati se na dobro u starom + ono ča želimo promjenit u novom
+Manja margina pogreške
+
+Prednosti: 
+stabilno i reverzibilno (imamo opciju za undo)
+učestalo (dio svakodnevnog posla)
+iskorištavanje svega dostupnega znanja
+
+Kako postat najcjenjenija kompanija?
+1) Tko je moj korisnik
+2) Koji su zahtjevi mojeg korisnika
+3) Dali ja ispunjavam zahtjeve svojeg korisnika potpuno i ekonomično
+
+If (count(NE)) > 0
+      treba poboljšati radnu rutinu na profesionalan način
+
+Moramo:
+ispuniti zahtjeve korisnika u potpunosti
+dati korisniku što želi i kada želi
+težiti osobnoj izvrsnosti zaposlenika (pozitivan stav, slušanje, poštovanje, strast; držanje obećanja; "biti prisutan sada"; "ja sam tvoja firma xy, možeš se osloniti na mene"
+
+Servisna izvrsnost je ovo gore
+Operativna izvrsnost je ovo gore
+ispuniti zahtjeve korisnika profitablino
+učinkovito koristiti resurse
+procesna izvrsnost (uspješno iz prvog pokušaja; što više uz što manje napora)
