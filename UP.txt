@@ -962,3 +962,14 @@ Operativna izvrsnost je ovo gore
 ispuniti zahtjeve korisnika profitablino
 učinkovito koristiti resurse
 procesna izvrsnost (uspješno iz prvog pokušaja; što više uz što manje napora)
+
+Kaizen
+Promjena + dobro => dobra ( željena ) promjena
+"To improve is to change, to be perfect is to change often"
+
+Score 
+Select - odaberi proces na kojemu češ delat
+Clarify - di je problem i ča je cilj procesa
+Organize - definiraj opseg, oragniziraj tm, pripremi radnom jesto
+Run - pokreni proces (promatraj, razmišljaj, odaberi poboljšanja, testiraj, implementiraj)
+Evaluate - procijeni rezultate, standarddiziraj nove procedure i definiraj buduće aktivnosti
