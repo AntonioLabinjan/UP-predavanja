@@ -977,3 +977,8 @@ Evaluate - procijeni rezultate, standarddiziraj nove procedure i definiraj budu�
 
 Effective (efektivno/djelotvorno) => adekvatno za postizanje svrhe; proizvesti željeni ili očekivani rezultat ( i buzdovanus i giljotina i lomača su efektivni)
 Efficient (efikasno/učinkovito) => izvođenje ili funkcioniranje na najbolji mogući način uz najmanje utroška vremena i truda ( ali giljotina je najefikasnija)
+
+Procesi potpore => temeljni procesi => upravljački procesi
+Upravljački procesi su usmjereni dionicima
+Temeljni procesi su usmjereni korisnicima
+
